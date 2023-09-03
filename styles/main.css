@@ -7,6 +7,9 @@ body {
 	padding-right: 5%;
 }
 
+
+/*#################### HEADER ####################*/
+
 #main_title {
 	font-size: 3.125em;
 	font-family: Fervojo-Bold;
@@ -34,8 +37,42 @@ body {
 	text-align: right;
 }
 
+
+
+/*#################### MAIN ####################*/
+
+
+
+#tags {
+	width: 50%;
+	float: left;
+}
+
+#articles {
+	width: 50%;
+	float: right;
+}
+
+@media (max-width: 500px){
+
+	#tags {
+		width: 100%;
+		float: none;
+	}
+
+	#articles {
+		width: 100%;
+		float: none;
+	}
+}
+
+
+/*#################### FOOTER ####################*/
+
 footer {
 	font-size: 0.5em;
+	width: 500px;
+	clear: right;
 }
 
 footer a:link {
