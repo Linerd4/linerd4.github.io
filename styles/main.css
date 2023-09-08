@@ -10,6 +10,17 @@ body {
 
 /*#################### HEADER ####################*/
 
+#under_con {
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 0%;
+	padding-right: 0%;
+	background-color: #0040ff;
+	border-style: double;
+	text-align: right;
+}
+
 #main_title {
 	font-size: 3.125em;
 	font-family: Fervojo-Bold;
@@ -46,24 +57,51 @@ body {
 #tags {
 	width: 50%;
 	float: left;
+	list-style-type: none;
 }
+
+#interests, #rec_arts {
+	font-family: Fervojo-Bold;
+	font-size: 1.3em;
+	text-align: center;
+
+}
+
+#listag {
+	padding-left: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+
+}
+
+.li1 {
+	text-align: left;
+	list-style: inside;
+	padding-left: 15%;
+	font-family: Mars-Project;
+	list-style-type: none;
+}
+
+.li2 {
+	text-align: center;
+	list-style: inside;
+	list-style-type: none;
+}
+
+.li3 {
+	text-align: right;
+	list-style: inside;
+	padding-right: 15%;
+	font-family: Protique Medium;
+	list-style-type: none;
+}
+
+.art_title:w
+
 
 #articles {
 	width: 50%;
 	float: right;
-}
-
-@media (max-width: 500px){
-
-	#tags {
-		width: 100%;
-		float: none;
-	}
-
-	#articles {
-		width: 100%;
-		float: none;
-	}
 }
 
 

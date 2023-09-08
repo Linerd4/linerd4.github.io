@@ -29,3 +29,40 @@
 	font-family: "Fervojo-Thin";
 	src: url('../fonts/Fervojo-Thin.otf') format("opentype");
 }
+
+
+/* Mars-Project:	https://fontesk.com/mars-project-font/		*/
+
+@font-face {
+	font-family: "Mars-Project";
+	src: url('../fonts/Mars-Project.otf') format("opentype");	
+}
+
+
+/* Protique:		https://fontesk.com/protique-typeface/		*/
+
+@font-face {
+	font-family: "Protique Black";
+	src: url('../fonts/Protique Black.otf') format("opentype");	
+}
+
+@font-face {
+	font-family: "Protique Bold";
+	src: url('../fonts/Protique Bold.otf') format("opentype");	
+}
+
+@font-face {
+	font-family: "Protique Light";
+	src: url('../fonts/Protique Light.otf') format("opentype");
+}
+
+@font-face {
+	font-family: "Protique Medium";
+	src: url('../fonts/Protique Medium.otf') format("opentype");
+}
+
+@font-face {
+	font-family: "Protique Thin";
+	src: url('../fonts/Protique Thin.otf') format("opentype");
+}
+

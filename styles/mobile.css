@@ -1,0 +1,52 @@
+@media (max-width: 700px){
+
+	body {
+		font-size: 1.3em;
+		padding-left: 4%;
+		padding-right: 4%;
+	}
+
+
+	/*#################### MOBILE HEADER ####################*/
+
+	#main_title {
+		font-size: 2.2em;
+		padding-top: 7%;
+		padding-bottom: 7%;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
+
+
+
+
+
+
+
+
+	/*#################### MOBILE MAIN ####################*/
+
+	main {
+
+		display: flex;
+		flex-direction: column;
+	}
+
+	#tags {
+		width: 100%;
+		float: none;
+		order: 2;
+	}
+
+	#articles {
+		width: 100%;
+		float: none;
+		order: 1;
+	}
+
+
+
+
+
+}
