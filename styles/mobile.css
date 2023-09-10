@@ -1,13 +1,23 @@
-@media (max-width: 700px){
+/*	MOBILE VIEW	*/
+
+@media (max-width: 900px){
 
 	body {
 		font-size: 1.3em;
 		padding-left: 4%;
 		padding-right: 4%;
+		margin: 0% 0% 0% 0%;
 	}
 
 
 	/*#################### MOBILE HEADER ####################*/
+
+	#under_con {
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
 
 	#main_title {
 		font-size: 2.2em;
@@ -17,36 +27,96 @@
 		margin-bottom: 0px;
 	}
 
+	#welcome_line {
+		font-size: 1.5em;
+		margin-top: 10%;
+		margin-bottom: 0%;
+	}
 
+	#tpomo {
+		margin-top: 5%;
+	}
 
-
-
-
+	#snms {
+		margin-top: 0%;
+		margin-bottom: 0%;
+	}
 
 
 
 	/*#################### MOBILE MAIN ####################*/
 
 	main {
-
 		display: flex;
 		flex-direction: column;
+	}
+
+	#interests , #rec_arts {
+		font-size: 1.3em;
 	}
 
 	#tags {
 		width: 100%;
 		float: none;
 		order: 2;
+		margin-top: 10%;
+	}
+
+	#listag {
+		padding-left: 0%;
+		margin-top: 0%;
+		margin-bottom: 0%;
+	}
+
+	.li1 {
+		padding-left: 15%;
+	}
+
+
+	.li3 {
+		padding-right: 15%;
 	}
 
 	#articles {
 		width: 100%;
 		float: none;
 		order: 1;
+		margin-top: 10%;
+	}
+
+	#articles > ul {
+		padding-left: 0%;
+	}
+
+	.article {
+		width: 75%;
+		margin: auto;
+		padding-left: 5%;
+		padding-right: 5%;
+		margin-bottom: 5%;
+	}
+
+	.art_title {
+		margin-top: 3%;
+		margin-bottom: 3%;
+		font-size: 1.4em;
+	}
+
+	.art_tldr {
+		font-size: 0.7em;
+	}
+
+	.rel_tags {
+		font-size: 0.6em;
 	}
 
 
+	/*#################### MOBILE FOOTER ####################*/
 
+	footer {
+		font-size: 0.5em;
+		width: 100%;
+	}
 
 
 }

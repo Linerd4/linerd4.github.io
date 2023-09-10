@@ -2,46 +2,33 @@ body {
 	background-color: #1a1a1a;
 	font-family: Fervojo-Regular;
 	color: white;
-	font-size: 2em;
-	padding-left: 5%;
-	padding-right: 5%;
 }
 
 
 /*#################### HEADER ####################*/
 
 #under_con {
-
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-left: 0%;
-	padding-right: 0%;
 	background-color: #0040ff;
 	border-style: double;
 	text-align: right;
 }
 
 #main_title {
-	font-size: 3.125em;
 	font-family: Fervojo-Bold;
 	text-align: center;
 }
 
 #am1 {
 	float: left;
-	padding-left: 10%;
 }
 
 #am2 {
 	float: right;
-	padding-right: 10%;
 }
 
 #welcome_line {
-	font-size: 1.5em;
 	font-family: Fervojo-Medium;
 	text-align: center;
-	padding-top: 0.5%;
 }
 
 #snms {
@@ -52,32 +39,26 @@ body {
 
 /*#################### MAIN ####################*/
 
-
-
 #tags {
-	width: 50%;
-	float: left;
 	list-style-type: none;
 }
 
+#tags a {
+	text-decoration: none; 
+	color: white;
+}
+
+
 #interests, #rec_arts {
 	font-family: Fervojo-Bold;
-	font-size: 1.3em;
 	text-align: center;
-
+	color: orange;
 }
 
-#listag {
-	padding-left: 0%;
-	margin-top: 0%;
-	margin-bottom: 0%;
-
-}
 
 .li1 {
 	text-align: left;
 	list-style: inside;
-	padding-left: 15%;
 	font-family: Mars-Project;
 	list-style-type: none;
 }
@@ -91,27 +72,30 @@ body {
 .li3 {
 	text-align: right;
 	list-style: inside;
-	padding-right: 15%;
 	font-family: Protique Medium;
 	list-style-type: none;
 }
 
-.art_title:w
-
-
 #articles {
-	width: 50%;
 	float: right;
+	align-items: center;
 }
 
+.article {
+	list-style-type: none;
+	text-align: center;
+	border-style: double;
+}
+
+.art_tldr {
+	font-family: "Untold History";
+}
+
+.rel_tags {
+	text-align: right;
+}
 
 /*#################### FOOTER ####################*/
-
-footer {
-	font-size: 0.5em;
-	width: 500px;
-	clear: right;
-}
 
 footer a:link {
 	color: red;
@@ -122,3 +106,6 @@ footer a:hover {
 	text-decoration: underline;
 }
 
+footer a:visited {
+	color: red;
+}
