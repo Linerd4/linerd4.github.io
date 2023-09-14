@@ -7,10 +7,9 @@ body {
 
 /*#################### HEADER ####################*/
 
-#under_con {
-	background-color: #0040ff;
-	border-style: double;
-	text-align: right;
+#randompage {
+	color: red;
+	text-decoration: none;
 }
 
 #main_title {
@@ -29,6 +28,7 @@ body {
 #welcome_line {
 	font-family: Fervojo-Medium;
 	text-align: center;
+	clear: both;
 }
 
 #snms {

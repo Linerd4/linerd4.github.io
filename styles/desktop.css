@@ -10,15 +10,16 @@
 
 	/*#################### DESKTOP HEADER ####################*/
 
-	#under_con {
-		margin-top: 0px;
-		margin-bottom: 0px;
-		padding-left: 0%;
-		padding-right: 0%;
+	#randompage {
+		text-decoration: none;
+		color: red;
+		float: right;
+		margin-bottom: 3%;
 	}
 
 	#main_title {
 		font-size: 3.125em;
+		clear: right;
 	}
 
 	#am1 {
@@ -31,15 +32,15 @@
 
 	#welcome_line {
 		font-size: 1.5em;
-		padding-top: 0.5%;
+		padding-top: 2%;
 	}
 
 	#tpomo {
-		padding-left: 28%;
+		padding-left: 22%;
 	}
 
 	#snms {
-		padding-right: 28%;
+		padding-right: 22%;
 	}
 
 
@@ -106,11 +107,6 @@
 		width: 15%;
 		clear: both;
 	}
-
-
-
-
-
 
 
 }

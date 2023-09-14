@@ -12,11 +12,9 @@
 
 	/*#################### MOBILE HEADER ####################*/
 
-	#under_con {
-		margin-top: 0px;
-		margin-bottom: 0px;
-		padding-left: 0px;
-		padding-right: 0px;
+	#randompage {
+		float: right;
+		font-size: 0.6em;
 	}
 
 	#main_title {
@@ -25,11 +23,22 @@
 		padding-bottom: 7%;
 		margin-top: 0px;
 		margin-bottom: 0px;
+		clear: both;
+	}
+
+	#am1 {
+		margin-top: 2%;
+		margin-bottom: 2%;
+	}
+
+	#am2 {
+		margin-top: 0%;
+		margin-bottom: 3%;
 	}
 
 	#welcome_line {
 		font-size: 1.5em;
-		margin-top: 10%;
+		margin-top: 0%;
 		margin-bottom: 0%;
 	}
 
@@ -115,7 +124,7 @@
 
 	footer {
 		font-size: 0.5em;
-		width: 100%;
+		width: 40%;
 	}
 
 
