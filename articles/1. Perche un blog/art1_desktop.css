@@ -22,16 +22,13 @@
 		text-align: center;
 		font-family: Fervojo-Bold;
 		margin-bottom: 0%;
+		padding-top: 3%;
 	}
 
 	#subtitle {
 		font-size: 2.2em;
 		text-align: center;
 		margin-top: 3%;
-	}
-
-	#stuff > p {
-		font-size: 1.2em;
 	}
 
 	#timedate {

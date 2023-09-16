@@ -87,6 +87,11 @@ body {
 	border-style: double;
 }
 
+.linktitle {
+	text-decoration: none;
+	color: red;
+}
+
 .art_tldr {
 	font-family: "Untold History";
 }
