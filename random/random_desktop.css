@@ -1,0 +1,37 @@
+@media (min-width: 900px){
+
+	body {
+		margin-left: 4%;
+		margin-right: 4%;	
+		font-size: 2em;
+	}	
+
+	#home {
+		float: left;
+		font-size: 0.7em;
+	}
+
+	#randomtitle {
+		clear: both;
+		font-size: 2em;
+		text-align: center;
+	}
+
+	.row {
+		display: flex;
+	}
+
+	.colomn {
+		width: 50%;
+	}
+
+	#nyancat {
+		float: left;
+	}
+
+	#alfie {
+		float: right;
+		margin: auto;
+		width: 50%;
+	}
+}

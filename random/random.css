@@ -1,0 +1,14 @@
+body {
+	background-color: #1a1a1a;
+	color: white;
+	font-family: Fervojo-Regular;
+}
+
+#home {
+	text-decoration: none;
+	color: red;
+}
+
+#randomtitle {
+	font-family: Fervojo-Bold;
+}

@@ -1,0 +1,36 @@
+@media (max-width: 900px) {
+
+	body {
+		font-size: 1.3em;
+		padding-left: 4%;
+		padding-right: 4%;
+	}
+
+	#home {
+		padding-top: 3%;
+	}
+
+	#randomtitle {
+		font-size: 2em;
+		text-align: center;
+	}
+
+	.row {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+
+		
+	}
+
+	#nyancat {
+		width: 200px;
+		height: 200px;
+		margin: auto;
+		padding-bottom: 10%;
+	}
+
+	#alfie {
+		margin: auto;
+	}
+}
