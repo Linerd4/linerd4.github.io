@@ -1,0 +1,30 @@
+body {
+	font-family: Fervojo-Regular;
+}
+
+#home {
+	text-decoration: none;
+	color: red;
+}
+
+#random {
+	text-decoration: none;
+	color: red;
+}
+
+#title {
+	font-family: Fervojo-Bold;
+}
+
+#subtitle {
+	font-family: Fervojo-Medium;
+}
+
+#timedate {
+	color: #36454F;
+}
+
+#si_gode {
+	margin-right: auto;
+	margin-left: auto;
+}
