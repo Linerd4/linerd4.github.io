@@ -1,0 +1,38 @@
+@media (min-width: 900px) {
+
+	body {
+		padding-left: 5%;
+		padding-right: 5%;
+		font-size: 2em;
+	}
+
+	#home {
+		float: left;
+		margin-top: 1%;
+	}
+
+	#random {
+		float: right;
+		margin-top: 1%;
+	}
+
+	#title {
+		clear: both;
+		font-size: 3.2em;
+		text-align: center;
+		font-family: Fervojo-Bold;
+		margin-bottom: 0%;
+		padding-top: 3%;
+	}
+
+	#subtitle {
+		font-size: 2.2em;
+		text-align: center;
+		margin-top: 3%;
+	}
+
+	#timedate {
+		float: right;
+		color: #36454F;
+	}
+}

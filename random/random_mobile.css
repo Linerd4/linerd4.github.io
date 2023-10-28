@@ -19,8 +19,18 @@
 		width: 100%;
 		display: flex;
 		flex-direction: column;
+	}
 
-		
+	#giorgio {
+		margin: auto;
+		padding-bottom: 10%;
+	}
+
+	#dino {
+		width: 200px;
+		height: 200px;
+		margin: auto;
+		padding-bottom: 10%;
 	}
 
 	#nyancat {

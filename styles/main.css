@@ -7,6 +7,10 @@ body {
 
 /*#################### HEADER ####################*/
 
+#noadblock {
+	color: red;
+}
+
 #randompage {
 	color: red;
 	text-decoration: none;

@@ -12,6 +12,10 @@
 
 	/*#################### MOBILE HEADER ####################*/
 
+	#noadblock {
+		font-size: 0.5em;
+	}
+
 	#randompage {
 		float: right;
 		font-size: 0.6em;

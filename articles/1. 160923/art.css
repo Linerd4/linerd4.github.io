@@ -1,0 +1,27 @@
+body {
+	font-family: Fervojo-Regular;
+	background-color: #1a1a1a;
+	color: white;
+}
+
+#home , a{
+	text-decoration: none;
+	color: red;
+}
+
+#random {
+	text-decoration: none;
+	color: red;
+}
+
+#title {
+	font-family: Fervojo-Bold;
+}
+
+#subtitle {
+	font-family: Fervojo-Medium;
+}
+
+#timedate {
+	color: #36454F;
+}

@@ -21,8 +21,19 @@
 		display: flex;
 	}
 
-	.colomn {
+	#dino {
+		width: 15%;
+		float: right;
+	}
+
+	#giorgio {
+		float: left;
+		margin: auto;
 		width: 50%;
+	}
+
+	#clean {
+		clear: both;
 	}
 
 	#nyancat {
