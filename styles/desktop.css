@@ -103,6 +103,11 @@
 		font-size: 0.6em;
 	}
 
+	#mastodon_iframe {
+		vertical-align: middle;	
+	}
+
+
 
 	/*#################### DESKTOP FOOTER ####################*/
 
@@ -110,6 +115,7 @@
 		font-size: 0.5em;
 		width: 15%;
 		clear: both;
+		margin-bottom: 2%;
 	}
 
 

@@ -1,0 +1,23 @@
+1. Intro
+
+This is it, Madeline.
+Just breathe.
+Why are you so nervous?
+
+Eccoci qui, un platformer pubblicato nel 2018 in origine da MaddyMakesGames poi rinominata in EXOK Games. Si seguono le vicende di Madeline, una ragazza trans (anche se questo fatto non è riportato in nessun momento del gioco) che, come dice la descrizione del gioco stesso su itch.io, si accinge a scalare una montagna. In apparenza, nulla di troppo complicato. Ma come ogni cosa, nulla può esattamente andare nella maniera perfetta senza un qualcosa che vada puntualmente storto. Ma di certo non mi metto a fare spoiler sulla storia.
+
+2. Dati tecnici sul gioco (ANCHE SUL RASPBERRY WOW)
+
+I requisiti tecnici del gioco non sono elevati, anzi, sono pressochè minimali. Gira perfettamente sul mio portatile dual core con una scheda grafica integrata estremamente modesta. C'è addirittura uno youtuber che è riuscito a girarlo su un Raspberry Pi 4 che nemmeno ha un processore classico x86, ma Arm (link al video). Quindi potenzialmente si potrebbe riuscire a farlo girare su telefono, anche se la strada sarà tortuosa. Però effettivamente potrei provarci una volta. Scusami telefono.
+Da ciò si deduce che la grafica non è mind-blowing, tutto a pixel. Ma ha un suo fascino, ed è fatta bene nella sua particolarità
+
+
+
+
+3. La colonna sonora
+
+4. Le mie impressioni personali (fa incazzare)
+
+5. MOD e speedrunner
+
+6. Conclusioni
