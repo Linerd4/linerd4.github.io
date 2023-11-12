@@ -103,8 +103,8 @@
 		font-size: 0.6em;
 	}
 
-	#mastodon_iframe {
-		vertical-align: middle;	
+	#mastofeed {
+		float: right;
 	}
 
 
