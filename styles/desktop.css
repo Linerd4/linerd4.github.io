@@ -14,21 +14,6 @@
 		font-size: 0.5em;
 	}
 
-	#englang {
-		padding: 0.2em 0.2em 0.2em 0.2em;
-		color: rgb(211, 183, 56);
-		border: 0.03em solid rgb(206, 206, 206);
-	}
-
-	#italang:visited {
-		color: orange;
-	}
-
-	#italang:link {
-		color: orange;
-
-	}
-
 	#randompage {
 		text-decoration: none;
 		color: red;
